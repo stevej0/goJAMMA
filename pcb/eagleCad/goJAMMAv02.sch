@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.2.2">
+<eagle version="9.3.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -10992,25 +10992,25 @@ W = angled&lt;p&gt;
 <part name="GND15" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="BUT5_6" library="con-lstb" library_urn="urn:adsk.eagle:library:162" deviceset="MA03-2" device="" package3d_urn="urn:adsk.eagle:package:8334/1"/>
 <part name="GND17" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C21" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="1000UF" device="-RADIAL-5MM-25V-20%" package3d_urn="urn:adsk.eagle:package:37412/1" value="1mF"/>
+<part name="C21" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="1000UF" device="-RADIAL-5MM-25V-20%" package3d_urn="urn:adsk.eagle:package:37412/1" value="100uF"/>
 <part name="U4" library="cronic" deviceset="PCM5101" device=""/>
 <part name="C9" library="rcl" deviceset="C-EU" device="C0805K" value="2u2"/>
 <part name="C10" library="rcl" deviceset="C-EU" device="C0805K" value="2u2"/>
-<part name="C4" library="rcl" deviceset="C-EU" device="C0805K" value="100n"/>
+<part name="C4" library="rcl" deviceset="C-EU" device="C0805K" value="100nF"/>
 <part name="GND18" library="supply1" deviceset="GND" device=""/>
 <part name="GND19" library="supply1" deviceset="GND" device=""/>
 <part name="R9" library="rcl" deviceset="R-EU_" device="R0805" value="1K"/>
 <part name="R11" library="rcl" deviceset="R-EU_" device="R0805" value="1K"/>
-<part name="C5" library="rcl" deviceset="C-EU" device="C0805K" value="100n"/>
+<part name="C5" library="rcl" deviceset="C-EU" device="C0805K" value="100nF"/>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
 <part name="R3" library="rcl" deviceset="R-EU_" device="R0805" value="1K"/>
 <part name="R4" library="rcl" deviceset="R-EU_" device="R0805" value="1K"/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
-<part name="C7" library="rcl" deviceset="C-EU" device="C0805K" value="100n"/>
+<part name="C7" library="rcl" deviceset="C-EU" device="C0805K" value="100nF"/>
 <part name="C28" library="rcl" deviceset="C-EU" device="C0805K" value="100n"/>
 <part name="U3" library="jammaFPGA" deviceset="LM4755" device=""/>
-<part name="C1" library="rcl" deviceset="C-EU" device="C0805K" value="10nF"/>
-<part name="C2" library="rcl" deviceset="C-EU" device="C0805K" value="10nF"/>
+<part name="C1" library="rcl" deviceset="C-EU" device="C0805K" value="100nF"/>
+<part name="C2" library="rcl" deviceset="C-EU" device="C0805K" value="100nF"/>
 <part name="C3" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="100UF-POLAR" device="-RADIAL-2.5MM-25V-20%" package3d_urn="urn:adsk.eagle:package:37415/1" value="100uF"/>
 <part name="GND22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND23" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -11027,17 +11027,17 @@ W = angled&lt;p&gt;
 <part name="GND27" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND28" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="U1" library="SparkFun-IC-Power" deviceset="V_REG_78XX" device="7812" value="+3.3v REG"/>
-<part name="C12" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="1000UF" device="-RADIAL-5MM-25V-20%" package3d_urn="urn:adsk.eagle:package:37412/1" value="1mF"/>
-<part name="C13" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="1000UF" device="-RADIAL-5MM-25V-20%" package3d_urn="urn:adsk.eagle:package:37412/1" value="1mF"/>
-<part name="C16" library="rcl" deviceset="C-EU" device="C0805K" value="100n"/>
-<part name="U2" library="SparkFun-IC-Power" deviceset="V_REG_LM1117" device="SOT223"/>
-<part name="C17" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="1000UF" device="-RADIAL-5MM-25V-20%" package3d_urn="urn:adsk.eagle:package:37412/1" value="1mF"/>
+<part name="C12" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="1000UF" device="-RADIAL-5MM-25V-20%" package3d_urn="urn:adsk.eagle:package:37412/1" value="100uF"/>
+<part name="C13" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="1000UF" device="-RADIAL-5MM-25V-20%" package3d_urn="urn:adsk.eagle:package:37412/1" value="100uF"/>
+<part name="C16" library="rcl" deviceset="C-EU" device="C0805K" value="100nF"/>
+<part name="U2" library="SparkFun-IC-Power" deviceset="V_REG_LM1117" device="SOT223" value="+1.8v REG"/>
+<part name="C17" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="1000UF" device="-RADIAL-5MM-25V-20%" package3d_urn="urn:adsk.eagle:package:37412/1" value="100uF"/>
 <part name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIPLED_0805" package3d_urn="urn:adsk.eagle:package:15821/2"/>
 <part name="R1" library="rcl" deviceset="R-EU_" device="R0805" value="1K"/>
 <part name="LED2" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIPLED_0805" package3d_urn="urn:adsk.eagle:package:15821/2"/>
 <part name="LED3" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIPLED_0805" package3d_urn="urn:adsk.eagle:package:15821/2"/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="R0805" value="1K"/>
-<part name="R8" library="rcl" deviceset="R-EU_" device="R0805" value="1K"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="R0805" value="150R"/>
+<part name="R8" library="rcl" deviceset="R-EU_" device="R0805" value="560R"/>
 <part name="GND30" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="UART3_3V" library="con-lstb" library_urn="urn:adsk.eagle:library:162" deviceset="MA03-1" device="" package3d_urn="urn:adsk.eagle:package:8339/1"/>
 <part name="CLK" library="crystal" library_urn="urn:adsk.eagle:library:204" deviceset="ASE" device="" package3d_urn="urn:adsk.eagle:package:12120/1"/>
@@ -11062,9 +11062,9 @@ W = angled&lt;p&gt;
 <part name="RN20" library="resistor-net" library_urn="urn:adsk.eagle:library:343" deviceset="CTS742C083" device="" package3d_urn="urn:adsk.eagle:package:24985/1"/>
 <part name="IC2" library="SamacSys_Parts" deviceset="THS7314D" device=""/>
 <part name="GND32" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R5" library="rcl" deviceset="R-EU_" device="R0805" value="75R"/>
-<part name="R12" library="rcl" deviceset="R-EU_" device="R0805" value="75R"/>
-<part name="R13" library="rcl" deviceset="R-EU_" device="R0805" value="75R"/>
+<part name="R5" library="rcl" deviceset="R-EU_" device="R0805" value="0R"/>
+<part name="R12" library="rcl" deviceset="R-EU_" device="R0805" value="0R"/>
+<part name="R13" library="rcl" deviceset="R-EU_" device="R0805" value="0R"/>
 <part name="R14" library="rcl" deviceset="R-EU_" device="R0805" value="3K3"/>
 <part name="R15" library="rcl" deviceset="R-EU_" device="R0805" value="3K3"/>
 <part name="R16" library="rcl" deviceset="R-EU_" device="R0805" value="3K3"/>
@@ -11362,11 +11362,11 @@ W = angled&lt;p&gt;
 </instance>
 <instance part="C1" gate="G$1" x="335.28" y="104.14" smashed="yes" rot="R90">
 <attribute name="NAME" x="335.28" y="109.22" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="342.9" y="96.52" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="345.44" y="109.22" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="C2" gate="G$1" x="335.28" y="99.06" smashed="yes" rot="R90">
 <attribute name="NAME" x="335.28" y="96.52" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="342.9" y="109.22" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="345.44" y="96.52" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="C3" gate="G$1" x="345.44" y="91.44" smashed="yes" rot="R270">
 <attribute name="NAME" x="340.36" y="86.36" size="1.778" layer="95"/>
@@ -11439,7 +11439,7 @@ W = angled&lt;p&gt;
 </instance>
 <instance part="U2" gate="G$1" x="134.62" y="86.36" smashed="yes">
 <attribute name="NAME" x="132.08" y="91.44" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="137.16" y="76.2" size="1.778" layer="96"/>
+<attribute name="VALUE" x="147.32" y="91.44" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="C17" gate="G$1" x="22.86" y="78.74" smashed="yes">
 <attribute name="NAME" x="22.86" y="83.82" size="1.778" layer="95"/>
