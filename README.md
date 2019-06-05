@@ -11,7 +11,6 @@ FAQ to follow...
 Hardware specifications (fixed):
 
 Altera MAX10 10M25SAE FPGA, 25K logic elements, extended Flash features.
-
 1MB 8Bit Static RAM, 10ns access.
 16MB 8Bit HyperRAM, 166Mhz DDR, 128 byte burst.
 48Mhz Crystal clock oscillator.
@@ -35,6 +34,4 @@ Sprites (undecided, most likely a blitter for the framebuffer with fast HyperRAM
 Layers (undecided, at least one text overlay, maybe a tiled background layer also).
 16 channel sample playback.
 Ability to load programs and data from microSD fat32 formatted cards.
-
-
 
