@@ -37,5 +37,3 @@ Ability to load programs and data from microSD fat32 formatted cards.
 
 
 
-
-
