@@ -8,6 +8,7 @@ The design is currently in a prototype stage, pretty much everything has been te
 FAQ to follow...
   
   
+  
 Hardware specifications (fixed):
 
 Altera MAX10 10M25SAE FPGA, 25K logic elements, extended Flash features  
@@ -24,6 +25,7 @@ Standard JAMMA 5v tolerant inputs, plus configuration jumpers for 6-button Pando
 1x USER button, 1x RESET button  
 1x USER LED  
 Large long-life and user replacable through hole capacitors in the audio and voltage regulator sections  
+  
   
   
 Homebrew logic core (basic wishlist) specifications, likely to change:
