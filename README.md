@@ -35,3 +35,7 @@ Layers (undecided, at least one text overlay, maybe a tiled background layer als
 16 channel sample playback.
 Ability to load programs and data from microSD fat32 formatted cards.
 
+
+
+
+
